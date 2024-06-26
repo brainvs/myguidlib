@@ -7,9 +7,9 @@ setup(
     description='A simple hello world library to generate GUIDs',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/myguidlib',
-    author='Your Name',
-    author_email='your.email@example.com',
+    url='https://github.com/brainvs/myguidlib',
+    author='brainvs',
+    author_email='brainvs@brainvs.com',
     license='MIT',
     classifiers=[
         'Development Status :: 3 - Alpha',
